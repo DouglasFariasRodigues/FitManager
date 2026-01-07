@@ -13,7 +13,7 @@ O **FitManager** é uma solução completa de gestão multiacademia, desenvolvid
 ## 📖 Documentação e Planejamento
 
 Para detalhes completos sobre requisitos, casos de uso, regras de negócio e cronograma, acesse:
-👉 [**Documentação do Projeto no Notion**](https://sua-url-do-notion.com)
+👉 [**Documentação do Projeto no Notion**](https://www.notion.so/Projeto-FitManager-2e0301f1f4de80ad9865e6feed24ddd8?source=copy_link)
 
 ---
 
