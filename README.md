@@ -112,12 +112,3 @@ Caso precise de suporte ou queira contribuir com o projeto, sinta-se à vontade 
 
 
 ---
-
-### O que incluí para ficar "profissional":
-* **Badges de Tecnologia:** Selos coloridos que facilitam a identificação da stack.
-* **Tabela Técnica:** Organização das ferramentas de forma limpa.
-* **Callouts de Destaque:** Uso de ícones e negritos para guiar o olhar.
-* **Instruções de Instalação:** Código formatado em blocos para fácil cópia.
-* **Roadmap:** Lista de "To-do" com checkboxes para mostrar que o projeto tem visão de futuro.
-
-**Deseja que eu crie também um arquivo `.env.example` para acompanhar este README e facilitar a configuração para outros desenvolvedores?**
